@@ -1,5 +1,8 @@
 # Bankers Algorithm
 
+| [Download Program as PDF](https://github.com/blackpeps/ssmplab2023/files/13259535/SSMP.Exp.3.pdf) |
+| --- |
+
 ## Output
 
 ```
