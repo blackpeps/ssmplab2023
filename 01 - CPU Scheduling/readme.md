@@ -7,6 +7,9 @@
 | 3. Preemptive Priority    | [Code](/01%20-%20CPU%20Scheduling/C%20-%20Preemptive%20Prio.c) | [Go](#pre-emptive-priority-scheduling) |
 | 4. Round Robin            | [Code](/01%20-%20CPU%20Scheduling/D%20-%20RR.c)                | [Go](#round-robin)                     |
 
+| [Download Programs as PDF](https://github.com/blackpeps/ssmplab2023/files/13259530/SSMP.Exp.1.pdf) |
+| --- |
+
 ## FCFS
 
 ```
