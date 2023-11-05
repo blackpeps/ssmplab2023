@@ -6,6 +6,9 @@
 | 2. Indexed    | [Code](/02%20-%20File%20Allocation/B%20-%20Indexed.c)    | [Go](#indexed)       |
 | 3. Linked     | [Code](/02%20-%20File%20Allocation/C%20-%20Linked.c)     | [Go](#linked)        |
 
+| [Download Programs as PDF](https://github.com/blackpeps/ssmplab2023/files/13259533/SSMP.Exp.2.pdf) |
+| --- |
+
 ## Sequential
 
 ### Algorithm
