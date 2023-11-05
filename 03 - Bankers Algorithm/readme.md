@@ -1,5 +1,8 @@
 # Bankers Algorithm
 
+| [See Code](/03%20-%20Bankers%20Algorithm/bankers.c) |
+| --- |
+
 | [Download Program as PDF](https://github.com/blackpeps/ssmplab2023/files/13259535/SSMP.Exp.3.pdf) |
 | --- |
 
