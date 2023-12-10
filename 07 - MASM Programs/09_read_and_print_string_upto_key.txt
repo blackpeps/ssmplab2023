@@ -1,0 +1,29 @@
+print macro p
+lea dx,p
+mov ah,09h
+int 21h
+endm
+data segment
+msg1 db "Enter the string: $"
+msg2 db 0ah,0dh,"The read string is: $"
+str db 100 dup('$')
+data ends
+code segment
+assume cs:code,ds:data
+start:mov ax,data
+mov ds,ax
+print msg1
+lea di,str
+l1:mov ah,01h
+int 21h
+cmp al,0dh
+je stop
+mov [di],al
+inc di
+jmp l1
+stop:print msg2
+print str
+mov ah,4ch
+int 21h
+code ends
+end start
