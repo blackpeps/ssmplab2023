@@ -36,7 +36,7 @@ void main()
             rewind(fp4);
             while (!feof(fp4))
             {
-                fscanf(fp4, "%s%d", symbol, &loc);
+                fscanf(fp4, "%d%s", &loc, symbol);
                 if (strcmp(symbol, operand) == 0)
                 {
                     flag1 = 1;
