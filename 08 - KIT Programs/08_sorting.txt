@@ -1,0 +1,14 @@
+        MOV BX, [2000]
+        DEC BX
+LOOP1:  MOV CX, BX
+        MOV SI, 2002
+LOOP2:  MOV AX, [SI]
+        ADD SI, 0002
+        CMP AX, [SI]
+        JB 101A         //GO TO "G0"
+        XCHG [SI], AX
+        MOV [SI-02], AX
+GO:     LOOP 100B       //LOOP GOES TO LOOP2
+        DEC BX
+        JNZ 1005        //GO TO LOOP1
+        HLT

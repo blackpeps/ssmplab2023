@@ -1,0 +1,4 @@
+MOV AL, [2050]
+AND AL, 0F
+MOV [3050], AL
+HLT
