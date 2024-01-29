@@ -17,5 +17,5 @@
 | [5. Two Pass Macro Processor](/05%20-%20Macro%20Processors/)    | [Pass One](/05%20-%20Macro%20Processors/M_p1.c)                                          | [SSMP Exp 5.pdf](https://github.com/blackpeps/ssmplab2023/files/14087465/SSMP.Exp.5.pdf) |
 |                                                                 | [Pass Two](/05%20-%20Macro%20Processors/M_p2.c)                                          | |
 | [6. Absolute Loader](/06%20-%20Absolute%20Loader/aload.c)       |                                                                                          | [SSMP Exp 6.pdf](https://github.com/blackpeps/ssmplab2023/files/14087470/SSMP.Exp.6.pdf)
-| [7. MASM Programs](/07%20-%20MASAM%20Programs/) | | [SSMP MASM.pdf](https://github.com/blackpeps/ssmplab2023/files/14087545/SSMP.LAB.MASM.PRINT.pdf)|
+| [7. MASM Programs](/07%20-%20MASM%20Programs) | | [SSMP MASM.pdf](https://github.com/blackpeps/ssmplab2023/files/14087545/SSMP.LAB.MASM.PRINT.pdf)|
 | [8. KIT Programs](/08%20-%20KIT%20Programs/) | | |
